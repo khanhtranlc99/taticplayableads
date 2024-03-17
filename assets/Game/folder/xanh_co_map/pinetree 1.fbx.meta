@@ -1,0 +1,148 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b4d6a354-3c05-4af2-b8e0-7c4d6659508e",
+  "files": [],
+  "subMetas": {
+    "aef62": {
+      "importer": "gltf-mesh",
+      "uuid": "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@aef62",
+      "displayName": "",
+      "id": "aef62",
+      "name": "pine_tree.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 30
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e7b6": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@4e7b6",
+      "displayName": "",
+      "id": "4e7b6",
+      "name": "MapTexture1_2.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "a8536": {
+      "importer": "texture",
+      "uuid": "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@a8536",
+      "displayName": "",
+      "id": "a8536",
+      "name": "MapTexture1_2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@4e7b6"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b743e": {
+      "importer": "gltf-material",
+      "uuid": "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@b743e",
+      "displayName": "",
+      "id": "b743e",
+      "name": "Map_01_M.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ec34a": {
+      "importer": "gltf-scene",
+      "uuid": "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@ec34a",
+      "displayName": "",
+      "id": "ec34a",
+      "name": "pinetree 1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "MapTexture1_2",
+        "uri": "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@4e7b6"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "redirect": "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@ec34a",
+    "assetFinder": {
+      "meshes": [
+        "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@aef62"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@a8536"
+      ],
+      "materials": [
+        "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@b743e"
+      ],
+      "scenes": [
+        "b4d6a354-3c05-4af2-b8e0-7c4d6659508e@ec34a"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

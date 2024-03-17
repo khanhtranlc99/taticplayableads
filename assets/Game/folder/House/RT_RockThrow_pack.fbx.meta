@@ -1,0 +1,374 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0",
+  "files": [],
+  "subMetas": {
+    "80194": {
+      "importer": "gltf-scene",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@80194",
+      "displayName": "",
+      "id": "80194",
+      "name": "RT_RockThrow_pack.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2af61": {
+      "importer": "gltf-mesh",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@2af61",
+      "displayName": "",
+      "id": "2af61",
+      "name": "RT_body3.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 269
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b732c": {
+      "importer": "gltf-mesh",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@b732c",
+      "displayName": "",
+      "id": "b732c",
+      "name": "RT_wood_rock3.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 114
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cf5ed": {
+      "importer": "gltf-mesh",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@cf5ed",
+      "displayName": "",
+      "id": "cf5ed",
+      "name": "RT_color_paties3.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 168
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "509e3": {
+      "importer": "gltf-mesh",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@509e3",
+      "displayName": "",
+      "id": "509e3",
+      "name": "RT_spinbase33.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 104
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5435a": {
+      "importer": "gltf-mesh",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@5435a",
+      "displayName": "",
+      "id": "5435a",
+      "name": "RT_wood_rock2.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 114
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4a65": {
+      "importer": "gltf-mesh",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@e4a65",
+      "displayName": "",
+      "id": "e4a65",
+      "name": "RT_body2.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 209
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2dcfa": {
+      "importer": "gltf-mesh",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@2dcfa",
+      "displayName": "",
+      "id": "2dcfa",
+      "name": "RT_spinbase2.mesh",
+      "userData": {
+        "gltfIndex": 6,
+        "triangleCount": 94
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e572": {
+      "importer": "gltf-mesh",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@9e572",
+      "displayName": "",
+      "id": "9e572",
+      "name": "RT_color_parties.mesh",
+      "userData": {
+        "gltfIndex": 7,
+        "triangleCount": 168
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d3131": {
+      "importer": "gltf-mesh",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@d3131",
+      "displayName": "",
+      "id": "d3131",
+      "name": "RT_body1.mesh",
+      "userData": {
+        "gltfIndex": 8,
+        "triangleCount": 141
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "90c58": {
+      "importer": "gltf-mesh",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@90c58",
+      "displayName": "",
+      "id": "90c58",
+      "name": "RT_wood_rock1.mesh",
+      "userData": {
+        "gltfIndex": 9,
+        "triangleCount": 114
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8fe72": {
+      "importer": "gltf-mesh",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@8fe72",
+      "displayName": "",
+      "id": "8fe72",
+      "name": "RT_color_parties1.mesh",
+      "userData": {
+        "gltfIndex": 10,
+        "triangleCount": 168
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "faab7": {
+      "importer": "gltf-mesh",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@faab7",
+      "displayName": "",
+      "id": "faab7",
+      "name": "RT_spinbase1.mesh",
+      "userData": {
+        "gltfIndex": 11,
+        "triangleCount": 94
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e61a9": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@e61a9",
+      "displayName": "",
+      "id": "e61a9",
+      "name": "unit_color1_1.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "3c372": {
+      "importer": "texture",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@3c372",
+      "displayName": "",
+      "id": "3c372",
+      "name": "unit_color1_1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@e61a9"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3e4f1": {
+      "importer": "gltf-material",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@3e4f1",
+      "displayName": "",
+      "id": "3e4f1",
+      "name": "unit_color.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9bf81": {
+      "importer": "gltf-material",
+      "uuid": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@9bf81",
+      "displayName": "",
+      "id": "9bf81",
+      "name": "color_parties.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "unit_color1_1",
+        "uri": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@e61a9"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "redirect": "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@80194",
+    "assetFinder": {
+      "meshes": [
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@2af61",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@b732c",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@cf5ed",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@509e3",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@5435a",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@e4a65",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@2dcfa",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@9e572",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@d3131",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@90c58",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@8fe72",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@faab7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@3c372"
+      ],
+      "materials": [
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@3e4f1",
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@9bf81"
+      ],
+      "scenes": [
+        "d531c5b7-9e49-49b3-ab7e-52538ae9ddb0@80194"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}
